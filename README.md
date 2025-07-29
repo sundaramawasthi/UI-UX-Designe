@@ -13,3 +13,17 @@
 
 ## 🖼️ Screenshots
 [Figma Image](https://github.com/sundaramawasthi/UI-UX-Designe/blob/main/Nexora.jpg)
+# Nexora Landing Page – UI/UX Design
+
+🎨 A clean, modern landing page for a fictional tech company.
+
+## 🖼️ Design Preview
+
+![Nexora Design](https://github.com/sundaramawasthi/UI-UX-Designe/blob/main/Nexora.jpg?raw=true)
+
+![Nexora Design 1](https://github.com/sundaramawasthi/UI-UX-Designe/blob/main/Nexora1.jpg?raw=true)
+
+![Nexora Design 4](https://github.com/sundaramawasthi/UI-UX-Designe/blob/main/Nexora4.jpg?raw=true)
+
+![Nexora Design 5](https://github.com/sundaramawasthi/UI-UX-Designe/blob/main/Nexora5.jpg?raw=true)
+
