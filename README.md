@@ -12,4 +12,4 @@
 - Tools used: Figma, Iconify, Auto Layout, Grid
 
 ## 🖼️ Screenshots
-
+<img src="Nexora.png" 
