@@ -12,7 +12,6 @@
 - Tools used: Figma, Iconify, Auto Layout, Grid
 
 ## 🖼️ Screenshots
-[Figma Image](https://github.com/sundaramawasthi/UI-UX-Designe/blob/main/Nexora.jpg)
 # Nexora Landing Page – UI/UX Design
 
 🎨 A clean, modern landing page for a fictional tech company.
