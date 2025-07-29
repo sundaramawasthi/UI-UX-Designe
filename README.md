@@ -12,4 +12,4 @@
 - Tools used: Figma, Iconify, Auto Layout, Grid
 
 ## 🖼️ Screenshots
-[Figma Design](https://github.com/sundaramawasthi/UI-UX-Designe/blob/main/Nexora.jpg)
+[Figma Image](https://github.com/sundaramawasthi/UI-UX-Designe/blob/main/Nexora.jpg)
